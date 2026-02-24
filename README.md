@@ -30,7 +30,7 @@ firstpy/
 └── first.py           # Basic practice script
 
 ## Author
-Khaja Moinuddin
+Shek Khaja Moinuddin
 
 ## How to Run
 
