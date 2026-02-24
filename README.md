@@ -18,3 +18,9 @@ This repository contains my Spark SQL practice programs.
 
 ## Author
 Khaja Moinuddin
+
+## How to Run
+
+Run the Spark script using:
+
+spark-submit scripts/spark_sql_practice.py
