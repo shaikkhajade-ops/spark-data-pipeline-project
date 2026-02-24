@@ -19,6 +19,7 @@ This repository contains my Spark SQL practice programs.
 ## Project Structure
 
 firstpy/
+
 │
 ├── data/              # Input CSV and JSON files
 
