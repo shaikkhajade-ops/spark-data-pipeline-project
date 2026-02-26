@@ -43,4 +43,4 @@ Shek Khaja Moinuddin
 
 Run the Spark script using:
 
-spark-submit scripts/spark_sql_practice.py
+spark-submit scripts/etl_pipeline.py
