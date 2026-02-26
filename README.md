@@ -1,6 +1,17 @@
-# Spark SQL Practice Project
+# End-to-End Data Pipeline using PySpark and Spark SQL
 
-This repository contains my Spark SQL practice programs.
+This project demonstrates building an end-to-end ETL pipeline using PySpark.
+
+The pipeline:
+- Reads raw CSV data
+- Performs data cleaning and transformations
+- Applies joins and aggregations
+- Writes output in ORC format
+
+## Project Overview
+
+This project simulates a real-world data engineering pipeline.  
+It demonstrates how raw data is processed, transformed, and stored in optimized format using PySpark and Spark SQL.
 
 ## Technologies Used
 - Python
@@ -9,25 +20,21 @@ This repository contains my Spark SQL practice programs.
 
 ## Topics Covered
 - DataFrame creation
-- Reading CSV / ORC files
+- Reading CSV files
 - Select & Filter
 - Aggregations
 - Joins
 - Group By
-- Writing output files
+- Writing ORC output files
 
 ## Project Structure
 
-firstpy/
-
-│
 ├── data/              # Input CSV and JSON files
 
 ├── scripts/           # Spark SQL Python scripts
 
 ├── README.md          # Project documentation
 
-└── first.py           # Basic practice script
 
 ## Author
 Shek Khaja Moinuddin
